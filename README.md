@@ -10,7 +10,5 @@ Please keep in mind this was my first time trying to create something like this 
 - [Sample datasets](https://github.com/MPCaloba/EletroPy/blob/main/Sample%20Files.zip)
 
 ## 🔗 Links
-- [Blog Article](https://medium.com/@marco_caloba/eletropy-electrophysiology-analysis-program-5230ae47e352)
-- [Personal website](https://mcaloba-04272.stackbit.app/)
-- [LinkdIn](https://www.linkedin.com/in/marcocaloba/)
-- [Medium](https://medium.com/@marco_caloba)
+- [Blog Article](https://medium.com/@codex-ventures/eletropy-electrophysiology-analysis-program-5230ae47e352)
+- [Medium](https://medium.com/@codex-ventures)
